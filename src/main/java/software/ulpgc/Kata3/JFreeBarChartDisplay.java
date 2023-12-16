@@ -26,7 +26,7 @@ public class JFreeBarChartDisplay extends JPanel implements BarChartDisplay{
     }
 
     private IntervalXYDataset dataset(Map<Integer,Integer> BarChartData) {
-        XYSeries serie = new XYSeries();
+        XYSeries serie = new XYSeries("");
         for(int Key: BarChartData.keySet())
             serie.add(Key,BarChartData.get(Key));
         return new XYSeriesCollection(serie);

@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a30cb511-bbb1-4b94-a0aa-71e721ff15a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/Kata2/CSVFileRegisterLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/Kata2/CoresRegisterProcesor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/Kata2/Register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/Kata2/RegisterLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/Kata2/RegisterProcesor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/Kata3/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/CPU_benchmark_v4.csv" afterDir="false" />
+    <list default="true" id="a30cb511-bbb1-4b94-a0aa-71e721ff15a5" name="Changes" comment="interface BarChartDisplay created">
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/Kata3/JFreeBarChartDisplay.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,6 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/vr7vi/IdeaProjectsq/Kata3/src/main/java/software/ulpgc/Kata2"
   }
@@ -68,6 +58,28 @@
       <option name="presentableId" value="Default" />
       <updated>1702755555316</updated>
     </task>
+    <task id="LOCAL-00001" summary="base MainFrame created">
+      <option name="closed" value="true" />
+      <created>1702756164409</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702756164409</updated>
+    </task>
+    <task id="LOCAL-00002" summary="interface BarChartDisplay created">
+      <option name="closed" value="true" />
+      <created>1702756225220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702756225220</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="base MainFrame created" />
+    <MESSAGE value="interface BarChartDisplay created" />
+    <option name="LAST_COMMIT_MESSAGE" value="interface BarChartDisplay created" />
   </component>
 </project>
