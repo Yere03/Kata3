@@ -1,8 +1,5 @@
 package software.ulpgc.Kata2;
 
-import software.ulpgc.Register;
-import software.ulpgc.RegisterLoader;
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
